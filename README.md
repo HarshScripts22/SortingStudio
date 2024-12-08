@@ -23,15 +23,7 @@ SortingStudio is an interactive and educational **Sorting Algorithm Visualizer**
 - **HTML5** – For the structure of the web page.  
 - **CSS3** – For styling the web page.  
 - **JavaScript** – For implementing sorting logic and dynamic visualization.
-
----
-
-## 📷 **Screenshots**  
-> Include visuals to showcase your app. Example:
-
-![SortingStudio Screenshot](#)  
-(assets/img1.png)
-
+  
 ---
 
 ## 📊 **Time Complexity Table**
