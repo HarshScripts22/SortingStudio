@@ -30,7 +30,7 @@ SortingStudio is an interactive and educational **Sorting Algorithm Visualizer**
 > Include visuals to showcase your app. Example:
 
 ![SortingStudio Screenshot](#)  
-*(Replace with an actual image link)*  
+(assets/img1.png)
 
 ---
 
