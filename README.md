@@ -58,3 +58,9 @@ SortingStudio is an interactive and educational **Sorting Algorithm Visualizer**
 - Include sound effects for visualization steps.
 - Add a comparison mode for analyzing multiple algorithms simultaneously.
 - Optimize visualization for larger datasets.
+
+---
+
+## 🤝 **Contributing**  
+Contributions are welcome! Please fork this repository, make your changes, and open a pull request. If you like this project, don't forget to give it a ⭐!  
+
